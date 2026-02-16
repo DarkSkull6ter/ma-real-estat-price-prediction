@@ -17,7 +17,7 @@ def load_assets():
     return model, prestige_map
 
 # ==========================================
-# 2. UI DESIGN (Using your specific stats)
+# 2. UI DESIGN 
 # ==========================================
 st.title("🇲🇦 Morocco House Price Predictor")
 st.markdown("---")
